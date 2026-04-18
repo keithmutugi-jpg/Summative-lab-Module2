@@ -56,7 +56,7 @@ function displayWord(data) {
         ${audio}
 
         <button class="favorite-btn" onclick="addFavorite('${data.word}')">
-            ⭐ Save to Favorites
+             Save to Favorites
         </button>
     `;
 }
